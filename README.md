@@ -43,13 +43,22 @@ Here are some highlights from my recent work:
 - **[Project One](#)** — A digital trade management system 
 - **[Project Two](#)** — A global advertisement system 
 - **[Project Three](#)** — A smart LMS library with search, dashboards, and filters
-
 ---
 
 ### **Let's Connect**
 
-<p align="center">
-  <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" /></a>
+<p align="center" border="2px solid aqua" border-radius"10px">
+  <a href="https://mastodon.social/@luismarvel" target="_blank">
+    <img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white"/>
+  </a>
+  
+  <a href="https://www.quora.com/profile/Destin-Marvel?ch=10&oid=2710035753&share=dec9bf56&srid=3mZOqU&target_type=user" target="_blank">
+    <img src="https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora&logoColor=white"/>
+  </a>
+  
+  <a href="https://x.com/Lucasaustin07?t=KhlzJHcSYpnuBnjS0jenTA&s=09" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
   <a href="destinmarvel3@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href=https://www.linkedin.com/in/destin-marvel-29721427a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 "><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -66,3 +75,6 @@ Here are some highlights from my recent work:
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" />
 </p>
+
+
+  
