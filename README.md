@@ -38,12 +38,7 @@
 
 ---
 
-or
-```markdown
-```bash
-$ whoami
-> software_developer
-$ echo "Building cool stuff..."
+
 
 ### **6. Retro Terminal Game**
 You can embed a **JavaScript game link** (like Snake, Tetris, or Pong) that opens in a browser:
