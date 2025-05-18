@@ -36,6 +36,8 @@
 
 ---
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DMZmarvel &theme=dark)](https://git.io/streak-stats)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DMZmarvel&show_icons=true&theme=radical)
 
 
