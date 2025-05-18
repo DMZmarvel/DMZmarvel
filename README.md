@@ -47,6 +47,10 @@ Here are some highlights from my recent work:
 
 ### **Let's Connect**
 
+  <a href="https://x.com/Lucasaustin07?t=KhlzJHcSYpnuBnjS0jenTA&s=09" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+
 <p align="center" >
   <a href="https://mastodon.social/@luismarvel" target="_blank">
     <img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white"/>
