@@ -36,6 +36,14 @@
 
 ---
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=YourUsername&theme=radical)
+
+
+
 ### **Projects**
 
 Here are some highlights from my recent work:
