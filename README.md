@@ -36,13 +36,7 @@
 
 ---
 
-
-### 🕹️ Try this Dev Game
-[![Play Pong](https://img.shields.io/badge/Play%20Terminal%20Game-green?style=for-the-badge&logo=javascript)](https://playclassic.games/games/arcade-dos-games-online/play-pong-online/)
-
-### 🎧 Coding Music Recommendation
-[![Lo-fi Radio](https://img.shields.io/badge/Lo--Fi_Coding_Music-FF6F61?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=jfKfPfyJRdk)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DestinMarvel&show_icons=true&theme=radical)
 
 
 ### **Projects**
