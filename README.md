@@ -1,7 +1,8 @@
+https://media2.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=6c09b9526ohrq15axarut1ajzqo00ztc76l3g4hhd357gz1q&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g
 
 <!-- Header GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="600" alt="Coding Gif" />
+  <img src="https://media2.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=6c09b9526ohrq15axarut1ajzqo00ztc76l3g4hhd357gz1q&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="600" alt="Coding Gif" />
 </p>
 
 <h1 align="center">Hi there, I'm DMZ-Marvel!</h1>
