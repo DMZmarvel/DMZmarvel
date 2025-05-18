@@ -47,7 +47,7 @@ Here are some highlights from my recent work:
 
 ### **Let's Connect**
 
-<p align="center" border="2px solid aqua" border-radius"10px">
+<p align="center" border="2px solid aqua">
   <a href="https://mastodon.social/@luismarvel" target="_blank">
     <img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white"/>
   </a>
