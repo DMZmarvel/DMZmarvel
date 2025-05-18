@@ -36,8 +36,20 @@
 
 ---
 
-![snake gif](https://github.com/DMZmarvel/DMZmarvel/blob/output/github-contribution-grid-snake.svg)
+---
 
+or
+```markdown
+```bash
+$ whoami
+> software_developer
+$ echo "Building cool stuff..."
+
+### **6. Retro Terminal Game**
+You can embed a **JavaScript game link** (like Snake, Tetris, or Pong) that opens in a browser:
+```markdown
+### 🕹️ Try this Dev Game
+[![Play Pong](https://img.shields.io/badge/Play%20Terminal%20Game-green?style=for-the-badge&logo=javascript)](https://playclassic.games/games/arcade-dos-games-online/play-pong-online/)
 
 ### 🎧 Coding Music Recommendation
 [![Lo-fi Radio](https://img.shields.io/badge/Lo--Fi_Coding_Music-FF6F61?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=jfKfPfyJRdk)
