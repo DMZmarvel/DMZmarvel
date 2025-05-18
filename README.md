@@ -36,7 +36,12 @@
 
 ---
 
-![snake gif](https://github.com/YourUsername/YourUsername/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/DMZmarvel/DMZmarvel/blob/output/github-contribution-grid-snake.svg)
+
+
+### 🎧 Coding Music Recommendation
+[![Lo-fi Radio](https://img.shields.io/badge/Lo--Fi_Coding_Music-FF6F61?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=jfKfPfyJRdk)
+
 
 
 ### **Projects**
