@@ -36,7 +36,10 @@
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DMZmarvel &theme=dark)](https://git.io/streak-stats)
+
+### 🐍 GitHub Contribution Snake
+
+![snake gif](https://github.com/DestinMarvel/DestinMarvel/blob/output/github-contribution-grid-snake.svg)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=DMZmarvel&theme=dark)
 
