@@ -4,7 +4,7 @@
   <img src="https://media2.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=6c09b9526ohrq15axarut1ajzqo00ztc76l3g4hhd357gz1q&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="600" alt="Coding Gif" />
 </p>
 
-<h1 align="center">Hi there, I'm DMZ-Marvel!</h1>
+<h1 align="center">Hi there, I'm DMZ-Marvel</h1>
 
 <p align="center">
   A passionate <strong>Software Developer</strong> building modern web & mobile applications.
