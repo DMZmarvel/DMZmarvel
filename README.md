@@ -1,11 +1,10 @@
 
-
 <!-- Header GIF -->
 <p align="center">
-  <img src="https://iconscout.com/lottie-animation/application-developer-working-on-computer-4337848_3618985" width="600" alt="Coding Gif" />
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="600" alt="Coding Gif" />
 </p>
 
-<h1 align="center">Hi there, I'm [DMZ-Marvel]!</h1>
+<h1 align="center">Hi there, I'm DMZ-Marvel!</h1>
 
 <p align="center">
   A passionate <strong>Software Developer</strong> building modern web & mobile applications.
