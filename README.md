@@ -36,13 +36,7 @@
 
 ---
 
----
 
-
-
-### **6. Retro Terminal Game**
-You can embed a **JavaScript game link** (like Snake, Tetris, or Pong) that opens in a browser:
-```markdown
 ### 🕹️ Try this Dev Game
 [![Play Pong](https://img.shields.io/badge/Play%20Terminal%20Game-green?style=for-the-badge&logo=javascript)](https://playclassic.games/games/arcade-dos-games-online/play-pong-online/)
 
