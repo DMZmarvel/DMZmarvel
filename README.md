@@ -36,7 +36,11 @@
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DestinMarvel&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DMZmarvel &theme=dark)](https://git.io/streak-stats)
+
+![snake gif](https://github.com/DMZmarvel/DMZmarvel/blob/output/github-contribution-grid-snake.svg)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DMZmarvel&show_icons=true&theme=radical)
 
 
 ### **Projects**
