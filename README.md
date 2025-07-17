@@ -68,6 +68,9 @@ Here are some highlights from my recent work:
 - **[Project One](#)** — A digital trade management system 
 - **[Project Two](#)** — A global advertisement system 
 - **[Project Three](#)** — A smart LMS library with search, dashboards, and filters
+- **[project four](#)** - An application for public notice 
+- **[project five](#)** - A clothing brand ecommerce website 
+- **[project six](#)** - A tracking management system 
 ---
 
 ### **Let's Connect**
