@@ -63,8 +63,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/framer-motion.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/framermotion.svg" width="40" style="background-color:white; padding:5px; border-radius:5px"/>
+ 
 </p>
 
 
